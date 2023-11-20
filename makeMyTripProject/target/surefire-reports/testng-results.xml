@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T09:56:02Z" name="Surefire suite" finished-at="2023-11-08T09:56:47Z" duration-ms="45086">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T09:56:02Z" name="Surefire test" finished-at="2023-11-08T09:56:47Z" duration-ms="45086">
+      <class name="makeMyTripProject.MMTrip">
+        <test-method is-config="true" signature="open()[pri:0, instance:makeMyTripProject.MMTrip@2f490758]" started-at="2023-11-08T15:26:02Z" name="open" finished-at="2023-11-08T15:26:06Z" duration-ms="4053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="Holiday_pack()[pri:0, instance:makeMyTripProject.MMTrip@2f490758]" started-at="2023-11-08T15:26:06Z" name="Holiday_pack" finished-at="2023-11-08T15:26:11Z" duration-ms="5460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Holiday_pack -->
+        <test-method signature="package_search()[pri:0, instance:makeMyTripProject.MMTrip@2f490758]" started-at="2023-11-08T15:26:11Z" name="package_search" finished-at="2023-11-08T15:26:26Z" duration-ms="14289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- package_search -->
+        <test-method signature="select_package()[pri:0, instance:makeMyTripProject.MMTrip@2f490758]" started-at="2023-11-08T15:26:26Z" name="select_package" finished-at="2023-11-08T15:26:47Z" duration-ms="20977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_package -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:makeMyTripProject.MMTrip@2f490758]" started-at="2023-11-08T15:26:47Z" name="closing" finished-at="2023-11-08T15:26:47Z" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- makeMyTripProject.MMTrip -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
